@@ -32,3 +32,20 @@ D:\Programacion\Nivel 2 C# MAxi Programa\Discos-app\obj\Debug\winform-app.csproj
 D:\Programacion\Nivel 2 C# MAxi Programa\Discos-app\obj\Debug\winform-app.csproj.CopyComplete
 D:\Programacion\Nivel 2 C# MAxi Programa\Discos-app\obj\Debug\winform-app.exe
 D:\Programacion\Nivel 2 C# MAxi Programa\Discos-app\obj\Debug\winform-app.pdb
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\winform-app.exe.config
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\winform-app.exe
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\winform-app.pdb
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\dominio1.dll
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\negocio1.dll
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\dominio1.pdb
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\bin\Debug\negocio1.pdb
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.csproj.AssemblyReference.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform_app.frmAlta.resources
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform_app.frmDiscos.resources
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform_app.Properties.Resources.resources
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.csproj.GenerateResource.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.csproj.CopyComplete
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.exe
+D:\Programacion\Nivel 2 C# MAxi Programa\Repo Discos-app\obj\Debug\winform-app.pdb
