@@ -1,0 +1,45 @@
+# Ignorar archivos de compilación generados
+bin/
+obj/
+
+# Ignorar archivos de usuario específicos
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vsp
+
+# Ignorar directorios de caché
+.vs/
+.vscode/
+
+# Ignorar archivos de compilación de TypeScript
+*.js
+*.map
+
+# Ignorar archivos de configuración
+*.dll.config
+*.exe.config
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos de análisis de código
+*.ide
+
+# Ignorar archivos de publicación
+_PublishedWebsites/
+*.publishproj
+
+# Ignorar archivos de resumen de compilación
+*.sbr
+*.tlb
+*.tlh
+*.bak
+
+# Ignorar archivos de prueba
+TestResults/
+[Tt]est[Rr]esult*/
