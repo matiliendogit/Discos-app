@@ -1,0 +1,11 @@
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\bin\Debug\practicaConexionDB.exe.config
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\bin\Debug\practicaConexionDB.exe
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\bin\Debug\practicaConexionDB.pdb
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.csproj.AssemblyReference.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.Form1.resources
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.Properties.Resources.resources
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.csproj.GenerateResource.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.csproj.CoreCompileInputs.cache
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.exe
+D:\Programacion\Nivel 2 C# MAxi Programa\practicaConexionDB\obj\Debug\practicaConexionDB.pdb
